@@ -1,2 +1,3 @@
 ###Summer_internship
-#(confidentiel)
+*Node.js_project*
+to run it use : ng serve 
